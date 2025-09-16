@@ -10,7 +10,8 @@ So I wrote FMConfigCreator — a Python script that generates the `config.xml` f
 
 **FMConfigCreator** scans the folder it is run in for valid face images and writes them into the correct format for Football Manager. It works in seconds, even with very large facepacks.
 
-It ensures all valid images are included, creates a backup of any existing config, and logs skipped files for your reference.
+It ensures all valid images are included, creates a backup of any existing config, and logs skipped files for your reference. 
+⚠ Note: The script has only been tested with facepacks, not with other types of graphics mods.
 
 ---
 
